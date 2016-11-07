@@ -32,4 +32,4 @@
 *.dSYM/
 *.su
 # Other files
-*.swp
+*.c.swp
